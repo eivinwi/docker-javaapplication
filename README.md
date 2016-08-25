@@ -1,6 +1,6 @@
-## Docker JavaApplication
+## Docker javaapplication
 
-JavaApplikasjon for bruk under Docker workshops.
+Java-applikasjon for bruk under Docker workshops.
 
 Prosjektet inneholder både mapper med filer relatert til oppgaver i workshoppen, samt en liten Java-basert serverapplikasjon
 som skal brukes i enkelte av oppgavene
